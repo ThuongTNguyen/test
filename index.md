@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/ThuongTNguyen/test/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
- Test image
+ Test images:jkhkjfdhgkjdhgkfdhgjdkf
+ fdgdgdfgd
  
  
 ![Image](https://github.com/ThuongTNguyen/test/blob/master/p_count.png)
